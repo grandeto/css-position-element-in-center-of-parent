@@ -1,1 +1,1 @@
-# css-position-element-in-center-of-parent
+# CSS: Position an element in the center of its parent
